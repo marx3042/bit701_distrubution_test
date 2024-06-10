@@ -1,1 +1,1 @@
-# bit701_distrubution_test
+# 배포연습
